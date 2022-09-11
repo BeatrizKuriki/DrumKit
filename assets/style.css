@@ -24,7 +24,7 @@ html {
     margin: 1rem;
     font-size: 1.5rem;
     padding: 1rem .5rem;
-    transition: all .07s ease;
+    transition: all .10s ease;
     width: 10rem;
     text-align: center;
     color: white;
@@ -33,7 +33,7 @@ html {
   }
   
   .playing {
-    transform: scale(1.1);
+    transform: scale(1.8);
     border-color: #ffc600;
     box-shadow: 0 0 1rem #bee650;
   }
@@ -47,5 +47,5 @@ html {
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
-    color: #ffc600;
+    color: #ffc800b9;
   }
