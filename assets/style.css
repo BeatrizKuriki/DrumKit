@@ -49,3 +49,19 @@ html {
     letter-spacing: .1rem;
     color: #ffc800b9;
   }
+
+
+ 
+
+
+@media(max-width: 992px){
+    .keys{
+      flex-direction:column;
+    }
+
+    @media(min-width: 570px){
+      .keys{
+          flex-direction:column;
+      }
+      
+  
