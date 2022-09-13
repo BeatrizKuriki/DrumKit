@@ -1,7 +1,7 @@
 # - DRUMKIT
- Desafio de projeto do site https://javascript30.com/. 
 
-- Projeto iniciado para participação do desafio javascript 30 dias.
+
+
 
 O Usuário é capaz de:
 - Utilizar o teclado, e pressionando as letras correspondentes ao que é mostrado na tela, simular uma bateria.
