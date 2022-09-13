@@ -17,7 +17,7 @@ O Usuário é capaz de:
   - [O que aprendi](#o-que-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+
 
 ## Visão geral
 
